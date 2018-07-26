@@ -1,32 +1,31 @@
 .top-content {
-    background: rgb(36, 35, 35);
+    background: rgb(83, 83, 83);
     padding: 35px;
-    box-shadow: 2px 2px 3px #000000;
+    box-shadow: 3px 3px 3px #000000;
     border-radius: 4px;
     margin: 20px 20px;
     color: rgb(0, 0, 0);
 }
   p {
-      color: rgb(255, 255, 255);
-    
+      color: rgb(3, 145, 114);
       font-size: 18px;
   }
   header {
       background-color: rgb(36, 35, 35);
-      height: 150px;
+      height: 120px;
       box-shadow: 5px 5px 5px 8px #acacac;
       font-size: 20px;
   }
 
-  img {
-      border-radius: 10%;
-    
-  }
-
-
-.swan{
+.coffee{
     height: 100vh;
     background-image: url(http://mediad.publicbroadcasting.net/p/wvpn/files/styles/medium/public/201802/Texting_coffee.jpg);
     background-size: cover;
     background-position: center;
+    border-radius: 10%
+}
+footer {
+    background-color: #1f1f1f;
+    height: 65px;
+   
 }
